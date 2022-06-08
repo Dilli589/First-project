@@ -1,2 +1,4 @@
 # First-project
-Practice
+Practice 
+This is my first push to the Git hub repository
+
